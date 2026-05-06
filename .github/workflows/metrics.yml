@@ -1,0 +1,45 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "20 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate overview metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: smilesand
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 21
+
+      - name: Generate habits metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-habits.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: smilesand
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_habits: yes
+          plugin_habits_days: 21
+          plugin_habits_facts: yes
+          plugin_habits_from: 200

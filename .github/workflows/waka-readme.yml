@@ -1,0 +1,30 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: WakaTime Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: "░▒▓█"
+          CODE_LANG: text
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 8
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: Binary JSON YAML TOML
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
