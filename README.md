@@ -70,28 +70,6 @@
   <img width="72%" src="https://streak-stats.demolab.com?user=smilesand&hide_border=true&background=00000000&ring=7aa2f7&fire=f7768e&currStreakLabel=9ece6a&sideLabels=a9b1d6&dates=c0caf5&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 </p>
 
-#### GitHub Metrics
-
-<p align="center">
-	<img width="100%" src="./github-metrics.svg" alt="GitHub metrics" />
-</p>
-
-<p align="center">
-	<img width="100%" src="./github-metrics-habits.svg" alt="GitHub habits metrics" />
-</p>
-
-#### WakaTime
-
-<!--START_SECTION:waka-->
-```text
-WakaTime metrics will appear here after the workflow runs.
-Add the WAKATIME_API_KEY secret in repository settings to enable updates.
-```
-<!--END_SECTION:waka-->
-
-<!-- programming tool icon 编程工具图标 -->
-<!-- <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br> -->
-
 <!-- svg -->
 <div>
 	<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
