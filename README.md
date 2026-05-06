@@ -1,80 +1,41 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,45:0ea5e9,100:f97316&text=SMILESAND&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Design%20clean.%20Build%20fast.%20Ship%20real%20products.&descSize=18&descAlignY=58&animation=fadeIn" alt="SMILESAND banner" />
-</p>
-
-<p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=AI+tooling+%7C+Web+experience+%7C+Automation;Readable+systems+with+sharp+product+sense;Build+sharp.+Ship+often.+Keep+it+human." alt="Typing intro" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1f1147,30:7c3aed,60:ec4899,100:22d3ee&text=SMILESAND&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Neo%20Tokyo%20mood%20%7C%20Sakura%20pixels%20%7C%20Late-night%20coding&descSize=18&descAlignY=58&animation=twinkling" alt="SMILESAND banner" />
 </p>
 
 <p align="center">
 	<a href="https://github.com/smilesand">
-		<img src="https://img.shields.io/github/followers/smilesand?style=for-the-badge&logo=github&label=Followers&color=0f172a" alt="GitHub followers" />
+		<img src="https://img.shields.io/github/followers/smilesand?style=for-the-badge&logo=github&label=followers&color=7c3aed" alt="GitHub followers" />
 	</a>
-	<img src="https://img.shields.io/github/stars/smilesand?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=f97316" alt="GitHub stars" />
-	<img src="https://komarev.com/ghpvc/?username=smilesand&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+	<img src="https://img.shields.io/github/stars/smilesand?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=stars&color=ec4899" alt="GitHub stars" />
+	<img src="https://komarev.com/ghpvc/?username=smilesand&style=for-the-badge&color=22d3ee" alt="Profile views" />
 </p>
 
-## ABOUT
-
-```yaml
-name: smilesand
-role: developer / builder / problem solver
-focus:
-	- AI tooling
-	- full-stack products
-	- automation workflows
-working_style:
-	- readable code
-	- fast feedback
-	- polished delivery
-current_mission: 把想法快速做成真正可用、可维护、可持续迭代的作品
-motto: Build sharp. Ship often. Keep it human.
-```
-
-## FOCUS GRID
+## SPELL STACK
 
 <p align="center">
-	<img src="https://img.shields.io/badge/AI%20Tooling-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tooling" />
-	<img src="https://img.shields.io/badge/Web%20Experience-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Experience" />
-	<img src="https://img.shields.io/badge/Automation-f97316?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
-	<img src="https://img.shields.io/badge/Readable%20Systems-334155?style=for-the-badge&logo=bookstack&logoColor=white" alt="Readable Systems" />
-	<img src="https://img.shields.io/badge/Product%20Sense-14b8a6?style=for-the-badge&logo=figma&logoColor=white" alt="Product Sense" />
-	<img src="https://img.shields.io/badge/Open%20Source-ef4444?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Open Source" />
+	<img src="https://img.shields.io/badge/Sakura%20Neon-1f1147?style=for-the-badge&logo=ghost&logoColor=white" alt="Sakura Neon" />
+	<img src="https://img.shields.io/badge/Anime%20Mood-7c3aed?style=for-the-badge&logo=apachespark&logoColor=white" alt="Anime Mood" />
+	<img src="https://img.shields.io/badge/Frontend%20Magic-ec4899?style=for-the-badge&logo=astro&logoColor=white" alt="Frontend Magic" />
+	<img src="https://img.shields.io/badge/AI%20Tooling-22d3ee?style=for-the-badge&logo=openai&logoColor=0f172a" alt="AI Tooling" />
+	<img src="https://img.shields.io/badge/Automation%20Loop-f97316?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation Loop" />
+	<img src="https://img.shields.io/badge/UI%20Aesthetic-f472b6?style=for-the-badge&logo=figma&logoColor=white" alt="UI Aesthetic" />
 </p>
 
-## DASHBOARD
+## BATTLE HUD
 
 <p align="center">
-	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=smilesand&show_icons=true&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8&icon_color=f97316&rank_icon=github" alt="GitHub stats" />
-	<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smilesand&layout=compact&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8" alt="Top languages" />
+	<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smilesand&theme=tokyonight" alt="Profile details" />
 </p>
 
 <p align="center">
-	<img width="70%" src="https://streak-stats.demolab.com?user=smilesand&hide_border=true&background=FFFFFF00&ring=f97316&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub streak" />
-</p>
-
-## BUILD MODE
-
-- 把复杂问题收敛成清晰的实现路径，而不是堆砌概念和层级。
-- 重视工程效率，也重视最终落到用户手里的体验质感。
-- 偏爱能快速验证价值的小步迭代，再逐步把细节打磨到位。
-- 乐于协作有目标感、有节奏感、能持续交付的项目。
-
-## CONNECT
-
-<p align="center">
-	<a href="https://github.com/smilesand">
-		<img src="https://img.shields.io/badge/GitHub-smilesand-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-	</a>
+	<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smilesand&theme=tokyonight" alt="Repositories per language" />
+	<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smilesand&theme=tokyonight" alt="Most commit language" />
 </p>
 
 <p align="center">
-	<sub>Less noise. More signal.</sub>
+	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smilesand&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="GitHub activity graph" />
 </p>
 
-<!--
-Quick customization guide:
-1. Replace the typing text to match your own positioning.
-2. Update the YAML block with your real focus, mission, and working style.
-3. Swap or remove badges in FOCUS GRID based on what you want recruiters or collaborators to notice first.
--->
+<p align="center">
+	<img width="72%" src="https://streak-stats.demolab.com?user=smilesand&hide_border=true&background=00000000&ring=F9A8D4&fire=F472B6&currStreakLabel=22D3EE&sideLabels=C4B5FD&dates=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak" />
+</p>
